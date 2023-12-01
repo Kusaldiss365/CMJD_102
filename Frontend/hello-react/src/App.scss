@@ -1,0 +1,11 @@
+
+$primary: #f0cb0f;
+
+$border-radius: 25px;
+
+btn-primary {
+    color: $primary;
+}
+
+//importing bootstrap customizable scss
+@import '~bootstrap/scss/bootstrap';
